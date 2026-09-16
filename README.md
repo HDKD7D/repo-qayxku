@@ -1,8 +1,10 @@
 2026/09/16 14:15:29
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: methompson926@yahoo.com, lincoln572@yahoo.com
-At: 2026-09-16 14:16:27
-Id: kgPWI2qO
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: leoz1607@hotmail.com, rosmas9@msn.com
+At: 2026-09-16 14:17:06
+Id: hE7Zu9qu
